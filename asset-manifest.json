@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dta/static/css/main.17312927.css",
+    "main.js": "/dta/static/js/main.e6a2e68f.js",
+    "index.html": "/dta/index.html",
+    "main.17312927.css.map": "/dta/static/css/main.17312927.css.map",
+    "main.e6a2e68f.js.map": "/dta/static/js/main.e6a2e68f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17312927.css",
+    "static/js/main.e6a2e68f.js"
+  ]
+}
